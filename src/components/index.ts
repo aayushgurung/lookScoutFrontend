@@ -1,0 +1,11 @@
+export { default as Container } from "./Container";
+export { default as Content } from "./Content";
+export { default as Features } from "./Home/Features";
+export { default as ContactForm } from "./Home/ContactForm";
+export { default as Hero } from "./Home/Hero";
+export { default as Demonstrate } from "./Home/Demonstrate/Demonstrate";
+export { default as TeamSection } from "./Home/TeamSection/TeamSection";
+export { default as WebTable } from "./Home/WebTable/WebTable";
+export { default as CallToAction } from "./Home/CallToAction";
+export { default as LogoSection } from "./Home/LogoSection";
+export { default as Footer } from "./Footer/Footer";
